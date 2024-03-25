@@ -4,9 +4,9 @@ typedef struct bf
 {
     unsigned int a:1;
     unsigned int b:3;
-    unsigned int c:7;
+    unsigned int c:7;  
 }Bf;
-
+ 
 
 int main() {
     Bf t;
