@@ -12,7 +12,7 @@ int main() {
     Bf t;
     t.a = 1;
     t.b = 15;
-    t.c = 255;
+    t.c = 255; 
     printf("%u\n", t.a);
     printf("%u\n", t.b);
     printf("%u\n", t.c);
